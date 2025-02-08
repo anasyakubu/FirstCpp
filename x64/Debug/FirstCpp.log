@@ -1,2 +1,4 @@
 ﻿  FirstCpp.cpp
+C:\Users\Nafiu\Documents\FirstCpp\FirstCpp.cpp(15,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nafiu\Documents\FirstCpp\FirstCpp.cpp(16,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   FirstCpp.vcxproj -> C:\Users\Nafiu\Documents\FirstCpp\x64\Debug\FirstCpp.exe
